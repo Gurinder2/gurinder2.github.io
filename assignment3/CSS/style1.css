@@ -1,12 +1,19 @@
+/** 
+    Name : Gurinder Singh 
+    Date:18 June,2025
+    file name : part1.html
+    description : this is style for part 1*/ 
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
-  color: #375e97;
+    /**point 1*/
+  color: hotpink;
   font-size: 2em;
   font-family: Georgia, "Times New Roman", Times, serif;
-  border-bottom: 1px solid #375e97;
+  /**point 2 */
+  border-bottom: 10px dotted  purple;
 }
 
 h2 {
