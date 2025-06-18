@@ -41,3 +41,7 @@ ul{
     border: 5px solid purple;
     padding: 2em;
 }
+/**point5*/
+a:hover{
+    color: green;
+}
